@@ -1,0 +1,14 @@
+D:\learn-csharp\online-ticket-management\bin\Debug\net8.0\online-ticket-management.exe
+D:\learn-csharp\online-ticket-management\bin\Debug\net8.0\online-ticket-management.deps.json
+D:\learn-csharp\online-ticket-management\bin\Debug\net8.0\online-ticket-management.runtimeconfig.json
+D:\learn-csharp\online-ticket-management\bin\Debug\net8.0\online-ticket-management.dll
+D:\learn-csharp\online-ticket-management\bin\Debug\net8.0\online-ticket-management.pdb
+D:\learn-csharp\online-ticket-management\obj\Debug\net8.0\online-ticket-management.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn-csharp\online-ticket-management\obj\Debug\net8.0\online-ticket-management.AssemblyInfoInputs.cache
+D:\learn-csharp\online-ticket-management\obj\Debug\net8.0\online-ticket-management.AssemblyInfo.cs
+D:\learn-csharp\online-ticket-management\obj\Debug\net8.0\online-ticket-management.csproj.CoreCompileInputs.cache
+D:\learn-csharp\online-ticket-management\obj\Debug\net8.0\online-ticket-management.dll
+D:\learn-csharp\online-ticket-management\obj\Debug\net8.0\refint\online-ticket-management.dll
+D:\learn-csharp\online-ticket-management\obj\Debug\net8.0\online-ticket-management.pdb
+D:\learn-csharp\online-ticket-management\obj\Debug\net8.0\online-ticket-management.genruntimeconfig.cache
+D:\learn-csharp\online-ticket-management\obj\Debug\net8.0\ref\online-ticket-management.dll
